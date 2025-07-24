@@ -1,0 +1,14 @@
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\StudentServiceApplication.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\entity\Admission.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\util\StudentMapper.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\controller\StudentController.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\entity\StudentStatus.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\entity\AdmissionStatus.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\dto\StudentDto.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\service\impl\StudentServiceImpl.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\repository\StudentRepository.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\service\StudentService.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\controller\HealthController.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\repository\AdmissionRepository.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\entity\Student.java
+C:\Users\Pulki\OneDrive\Desktop\microservices-college-management\student-service\src\main\java\com\college\student\dto\AdmissionDto.java

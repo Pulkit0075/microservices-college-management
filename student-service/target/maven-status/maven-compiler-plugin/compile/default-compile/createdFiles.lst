@@ -1,0 +1,14 @@
+com\college\student\entity\Student.class
+com\college\student\controller\StudentController.class
+com\college\student\util\StudentMapper.class
+com\college\student\repository\StudentRepository.class
+com\college\student\dto\AdmissionDto.class
+com\college\student\service\impl\StudentServiceImpl.class
+com\college\student\entity\AdmissionStatus.class
+com\college\student\entity\StudentStatus.class
+com\college\student\entity\Admission.class
+com\college\student\dto\StudentDto.class
+com\college\student\service\StudentService.class
+com\college\student\StudentServiceApplication.class
+com\college\student\repository\AdmissionRepository.class
+com\college\student\controller\HealthController.class
